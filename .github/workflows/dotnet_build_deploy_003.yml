@@ -25,7 +25,7 @@ env:
 
 on:
   push:
-    branches: none
+    branches: main
       # - main
   workflow_dispatch:
 
